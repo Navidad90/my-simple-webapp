@@ -1,0 +1,9 @@
+# Ignore node_modules or Python packages (if any)
+node_modules/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore system files
+.DS_Store
