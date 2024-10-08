@@ -40,7 +40,7 @@ h1 {
 
 /* Hero Section Styling */
 .hero {
-    background-image: url('images/background.jpg');
+    background-image: url('images/background.jpg'); /* Using background image */
     height: 400px;
     background-size: cover;
     background-position: center;
